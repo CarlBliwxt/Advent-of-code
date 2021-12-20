@@ -17,5 +17,5 @@ while i <= len(words):
     i += 1
     n += 1
 
-print('part 1:', horizontal * depth)
+print('part 2:', horizontal * depth)
 
